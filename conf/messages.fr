@@ -1,0 +1,46 @@
+﻿title=Informations Play!
+playinfo=Informations sur Play!
+playversion=Version de Play!
+playmode=Mode
+playid=Identifiant du framework
+
+javainfo=Informations sur Java
+javaversion=Version
+javavendor=Editeur
+javahome=Répertoire d'installation
+javalibpath=Chemins des bibliothèques
+
+vmversion=Version de la JVM
+vmvendor=Editeur de la JVM
+vmmax=Mémoire max JVM
+vmfree=Mémoire libre JVM
+vmtotal=Mémoire total JVM
+
+vmversion=Version de la JVM
+vmvendor=Editeur de la JVM
+vmmax=Mémoire max JVM
+vmfree=Mémoire libre JVM
+vmtotal=Mémoire total JVM
+
+osinfo=Informations sur le système d'exploitation
+osname=Nom
+osversion=Version
+osarch=Architecture
+processors=Nombre de processeur
+
+softwareinfo=Informations de l'application
+softwarename=Nom
+softwarepath=Répertoire de l'application
+softwareconf=Fichier de configuration
+softwarelangs=Langues disponibles
+softwarepathtmp=Répertoire temporaire
+softwareroutes=Fichier routes
+softwarerun=Application lancée à
+softwaretime=dd/MM/yyyy HH:mm
+
+menuapplication=Application
+menuplay=Play!
+menujava=Java
+menuos=Système
+
+notdefined=Non défini

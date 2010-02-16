@@ -1,0 +1,21 @@
+h1. InfoPlay module
+
+The module give many informations on your application, Play! framework, JRE and OS like the infophp command in PHP language.
+
+h2. <a>Enable the InfoPlay module for the application</a>
+
+In the **/conf/application.conf** file, enable the InfoPlay module by adding this line:
+
+bc. # The InfoPlay module
+module.infoplay=${play.path}/modules/InfoPlay
+
+In the **/conf/routes** file, put this line for example :
+bc. # display InfoPlay
+GET     /infoplay                                   module:infoplay
+
+
+h2. <a>Using the InfoPlay module</a>
+
+http://<your_site>/infoplay
+
+
