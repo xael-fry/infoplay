@@ -1,7 +1,7 @@
-package controllers;
+package controllers.infoplay;
 
-import models.JavaInfo;
-import models.PlayConf;
+import models.infoplay.JavaInfo;
+import models.infoplay.PlayConf;
 import play.mvc.*;
 
 public class InfoPlay extends Controller {

@@ -1,14 +1,10 @@
-package models;
+package models.infoplay;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import play.Play;
 import play.i18n.Messages;
 
-/**
- *
- * @author le roux
- */
 public class PlayConf {
 
     public String softname;
